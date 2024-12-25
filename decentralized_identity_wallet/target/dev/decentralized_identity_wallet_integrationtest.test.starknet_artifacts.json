@@ -1,0 +1,1 @@
+{"version":1,"contracts":[{"id":"5rjs8rv4pb0ps","package_name":"decentralized_identity_wallet","contract_name":"HelloStarknet","module_path":"decentralized_identity_wallet::HelloStarknet","artifacts":{"sierra":"decentralized_identity_wallet_integrationtest_HelloStarknet.test.contract_class.json","casm":null}}]}
